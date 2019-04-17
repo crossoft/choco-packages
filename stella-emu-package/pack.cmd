@@ -1,0 +1,1 @@
+cpack stella-emu.nuspec
