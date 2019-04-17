@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>stella-emu</id>
+    <title>stella-emu</title>
+    <version>6.0</version>
+    <authors>Bradford W. Mott, Stephen Anthony and The Stella Team</authors>
+    <owners>crossoft</owners>
+    <summary>Atari 2600 Emulator for Windows</summary>
+    <description>Stella is an emulator of the Atari 2600 game console, and takes its name from the console's codename.</description>
+    <projectUrl>https://stella-emu.github.io/</projectUrl>
+    <tags>stella-emu stella atari</tags>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.txt</licenseUrl>
+    <packageSourceUrl>https://chocolatey.org/packages/stella-emu</packageSourceUrl>
+    <projectSourceUrl>https://github.com/stella-emu/stella</projectSourceUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://stella-emu.github.io/docs/index.html</docsUrl>
+    <bugTrackerUrl>https://github.com/stella-emu/stella/issues</bugTrackerUrl>
+    <iconUrl>https://upload.wikimedia.org/wikipedia/en/0/0e/Stella_icon.png</iconUrl>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>

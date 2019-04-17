@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>lorex-status-client</id>
+    <title>lorex-status-client</title>
+    <version>1.2.14</version>
+    <authors>By You</authors>
+    <owners>By You</owners>
+    <summary>It's an lorex-status-client</summary>
+    <description>remote access to ECO Series DVR systems</description>
+    <projectUrl>https://www.lorextechnology.com/downloads/security-dvr/LH150-Series/ECO_STRATUS_SERIES_CLIENT_PC-v1_1_1186_0.zip</projectUrl>
+    <tags>#lorex-status-client #lorex-status-client</tags>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://icons.iconarchive.com/icons/pelfusion/flat-file-type/512/exe-icon.png
+    </iconUrl>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
