@@ -12,7 +12,7 @@
     <projectUrl>https://stella-emu.github.io/</projectUrl>
     <tags>stella-emu stella atari</tags>
     <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.txt</licenseUrl>
-    <packageSourceUrl>https://chocolatey.org/packages/stella-emu</packageSourceUrl>
+    <packageSourceUrl>https://github.com/crossoft/choco-packages/blob/master/stella-emu-package/stella-emu.nuspec</packageSourceUrl>
     <projectSourceUrl>https://github.com/stella-emu/stella</projectSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <docsUrl>https://stella-emu.github.io/docs/index.html</docsUrl>
